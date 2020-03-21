@@ -1,0 +1,24 @@
+[
+  {'img': '/images.unsplash.com/photo-1514799595136-965d9d614956?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ',
+   'title': 'Лучший перекус',
+   'review': '        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque praesentium sed delectus earum enim aperiam officia voluptas, quaerat facilis, veniam vitae quibusdam impedit nam officiis? Doloremque eos eveniet perspiciatis architecto!',
+   name: 'Daniel',
+   'id': '1'
+  
+  }, 
+   {'img': '/images.unsplash.com/photo-1574721569234-c85f77aaefbe?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ',
+   'title': 'Лучший перекус  2',
+   'review': '        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremqremque eos eveniet perspiciatis architecto!',
+   name: 'Anna',
+    'id': '2'
+  
+  }, 
+   {'img': '/images.unsplash.com/photo-1489913590284-9269438bb411?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ',
+   'title': 'Лучший перекус gvvngn',
+   'review': '        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque praesentium sed delectus earum enim aperiam officia voluptas,quaerat facilis, veniam vitae quibusdam impedit nam officiis? Doloremque eos eveniet perspiciatis architecto!      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque praesentium sed delectus earum enim aperiam officia voluptas,quaerat facilis, veniam vitae quibusdam impedit nam officiis? Doloremque eos eveniet perspiciatis architecto!', 
+   'name': 'Ivan',
+    'id': '3'
+  
+  }
+  
+]
